@@ -33,6 +33,7 @@ public class PlayerManagement : MonoBehaviour
             gameOver = true;
 
         }
+       
 
         if(collision.gameObject.tag == "Boundary")
         {

@@ -12,7 +12,7 @@ public class PoopExplosion : MonoBehaviour
 
         GameObject poopExplosionGo = GameObject.Instantiate(poopExlosionPrefab, transform.position, transform.rotation);
 
-        SoundManagement.instance.PlayPoopExplosion();
+        //SoundManagement.instance.PlayPoopExplosion();
 
         Destroy(poopExplosionGo, 0.5f);
 
