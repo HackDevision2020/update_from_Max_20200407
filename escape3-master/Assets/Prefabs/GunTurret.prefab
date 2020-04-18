@@ -98,11 +98,11 @@ MonoBehaviour:
   speed: 10
   stoppingDistance: 6
   retreatDistance: 5
-  startTimeBTwShots: 5
+  startTimeBTwShots: 2
   projectile: {fileID: 2292563349594749189, guid: 64abd86efc4a31140bd7c62c0d82ef54,
     type: 3}
   target: {fileID: 0}
-  attackRadius: 10
+  attackRadius: 18
   player: {fileID: 0}
 --- !u!114 &6370335016902421309
 MonoBehaviour:
